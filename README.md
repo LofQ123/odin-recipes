@@ -1,0 +1,1 @@
+This is my first site. I will practice basic structure of a website, basic elements of a webpage, pushing it to Git.
