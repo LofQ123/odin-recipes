@@ -1,0 +1,26 @@
+html {
+    background-color: rgba(9, 2, 34, 0.938);
+    color: rgba(255, 255, 255, 0.89);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px;
+}
+
+div {
+    background-color: rgba(9, 2, 34, 0.938);
+    width: 80%;
+    height: 80vw;
+    margin: 0px 100px;
+    
+}
+
+
+h1 {
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    display: block;
+    
+}
