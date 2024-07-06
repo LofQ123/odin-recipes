@@ -1,3 +1,6 @@
+* {
+    border: 2px solid red
+}
 html {
     background-color: rgba(9, 2, 34, 0.938);
     color: rgba(255, 255, 255, 0.89);
@@ -21,6 +24,14 @@ h1 {
 }
 
 img {
-    display: block;
-    
+    display: block;  
+}
+
+a {
+    color: white;
+}
+
+.index_list {
+    font-size: 20px;
+    margin: 20px auto;
 }
